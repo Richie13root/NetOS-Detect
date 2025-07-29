@@ -77,7 +77,7 @@ misuse or damage caused by this program. Always respect privacy and the law.
 
  📄 License
  
-This project is distributed under the MIT License. See the LICENSE le for more
+This project is distributed under the MIT License. See the LICENSE for more
 information.
 
 
