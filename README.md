@@ -1,4 +1,4 @@
-# NetOS-Detect: Automated OS Detector:
+# NetOS-Detect: Automated OS Detector
 
 NetOS-Detect is a powerful and modular tool for network administrators and security
 professionals to automatically discover and identify the operating systems of devices
