@@ -1,7 +1,3 @@
-
-# NetOS-Detect: detector.py
-
-
 import argparse
 import logging
 from scapy.all import IP, TCP, sr1, ICMP
